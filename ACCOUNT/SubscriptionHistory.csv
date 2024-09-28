@@ -1,0 +1,2 @@
+Subscription Opened Ts,Is Free Trial At Signup,Subscription Closed Ts,Is Customer Initiated Cancel,Signup Plan Category,Signup Max Concurrent Streams,Signup Max Streaming Quality,Plan Change Date,Plan Change Old Category,Plan Change Old Max Concurrent Streams,Plan Change Old Max Streaming Quality,Plan Change New Category,Plan Change New Max Concurrent Streams,Plan Change New Max Streaming Quality,Cancellation Reason
+2024-01-09 06:36:45.414+0000,0,2024-05-08 08:00:54.193,1,STREAMING ONLY,2,HD,,,,,,,,CUSTOMER_REQUEST
